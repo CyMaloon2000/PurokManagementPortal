@@ -1,0 +1,32 @@
+﻿@model Generic.Data.EducationalStatusLevel
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Edit Education</h1>
+}
+
+
+<form method="post" asp-controller="EducationalStatusLevel" asp-action="Edit" id="editForm">
+    <div class="form-group" hidden>
+        <label asp-for="EducationalStatusLevelId"></label>
+        <input asp-for="EducationalStatusLevelId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="EducationalStatusLevelName"></label>
+        <input class="form-control" asp-for="EducationalStatusLevelName" />
+        <span asp-validation-for="EducationalStatusLevelName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LegendRemarks"></label>
+        <input class="form-control" asp-for="LegendRemarks" />
+        <span asp-validation-for="LegendRemarks"></span>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" asp-for="IsActive" />
+        <label class="form-check-label" asp-for="IsActive"></label>
+        <span asp-validation-for="IsActive"></span>
+    </div>
+
+</form>
+
+<script src="@Url.Content("~/js/EducationalStatusLevel/Edit.js")"></script>

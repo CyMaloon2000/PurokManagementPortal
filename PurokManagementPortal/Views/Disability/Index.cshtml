@@ -1,0 +1,29 @@
+﻿@model Generic.Data.Disability
+
+<div class="container-fluid">
+    <h1 class="h3 mb-1 text-gray-800">Manage Disability</h1>
+
+    <div class="d-flex justify-content-end mb-3">
+        <button class="btn btn-sm btn-primary px-4" data-url="/Disability/Create/" data-id="createDisability" data-dialog-title="Create Disability" data-dialog-width="modal-lg" data-process-button="Create" onclick="loadAndShowModal($(this))"><i class="fas fa-plus mr-2 ml-0"></i>Create</button>
+    </div>
+
+    <div class="table-responsive-md">
+        <table id="DisabilityDT" class="table table-hover table-striped table-bordered nowrap" style="width:100%">
+            <thead>
+                <tr class="text-center">
+                    <th>DisabilityName</th>
+                    <th>LegendRemarks</th>
+                    <th>IsAcitve</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="@Url.Content("~/js/Disability/Index.js")"></script>
+}

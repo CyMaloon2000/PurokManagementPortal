@@ -1,0 +1,56 @@
+﻿@model Generic.Data.PersonVM
+
+
+<h1 class="h3 mb-1 text-gray-800">Create Person</h1>
+
+<div asp-validation-summary="All"></div>
+
+<form method="post" asp-controller="Occupation" asp-action="Create" id="createForm">
+    <div class="form-group">
+        <label asp-for="Person.FirstName"></label>
+        <input class="form-control" asp-for="Person.FirstName" />
+        <span class="text-danger" asp-validation-for="Person.FirstName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.MiddleName"></label>
+        <input class="form-control" asp-for="Person.MiddleName" />
+        <span class="text-danger" asp-validation-for="Person.MiddleName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.LastName"></label>
+        <input class="form-control" asp-for="Person.LastName" />
+        <span class="text-danger" asp-validation-for="Person.LastName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.BirthDate"></label>
+        <input type="date" class="form-control" asp-for="Person.BirthDate" />
+        <span class="text-danger" asp-validation-for="Person.BirthDate"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Person.Gender" class="control-label"></label>
+        <select class="form-control" asp-for="Person.GenderId" asp-items="Model.GenderSelectList">
+            <option value="">Select Gender</option>
+        </select>
+        <span asp-validation-for="Person.GenderId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.MaritalStatus" class="control-label"></label>
+        <select class="form-control" asp-for="Person.MaritalStatus" asp-items="Model.MaritalStatusSelectList">
+            <option value="">Select Marital Status</option>
+        </select>
+        <span asp-validation-for="Person.MaritalStatusId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.Nationality" class="control-label"></label>
+        <select class="form-control" asp-for="Person.NationalityId" asp-items="Model.NationalitySelectList">
+            <option value="">Select Nationality</option>
+        </select>
+        <span asp-validation-for="Person.NationalityId" class="text-danger"></span>
+    </div>
+
+
+</form>
+
+
+<script src="@Url.Content("~/js/Person/Create.js")"></script>

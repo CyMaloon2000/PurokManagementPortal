@@ -1,0 +1,20 @@
+﻿@model Generic.Data.PhilHealthSource
+
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Create PhilHealth Source</h1>
+}
+
+<div asp-validation-summary="All"></div>
+
+<form method="post" asp-controller="PhilHealthSource" asp-action="Create" id="createForm">
+    <div class="form-group">
+        <label asp-for="PhilHealthSourceName"></label>
+        <input class="form-control" asp-for="PhilHealthSourceName" />
+        <span class="text-danger" asp-validation-for="PhilHealthSourceName"></span>
+    </div>
+</form>
+
+
+<script src="@Url.Content("~/js/PhilHealthSource/Create.js")"></script>

@@ -1,0 +1,15 @@
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\bin\Debug\net6.0\Generic.DataAccess.deps.json
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\bin\Debug\net6.0\Generic.DataAccess.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\bin\Debug\net6.0\Generic.DataAccess.pdb
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\bin\Debug\net6.0\Generic.Data.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\bin\Debug\net6.0\Generic.Data.pdb
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.csproj.AssemblyReference.cache
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.AssemblyInfo.cs
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic..E8EF1F71.Up2Date
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\refint\Generic.DataAccess.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\Generic.DataAccess.pdb
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.DataAccess\obj\Debug\net6.0\ref\Generic.DataAccess.dll

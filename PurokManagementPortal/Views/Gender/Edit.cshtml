@@ -1,0 +1,27 @@
+﻿@model Generic.Data.Gender
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Edit Gender</h1>
+}
+
+
+<form method="post" asp-controller="Gender" asp-action="Edit" id="editForm">
+    <div class="form-group" hidden>
+        <label asp-for="GenderId"></label>
+        <input asp-for="GenderId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="GenderName"></label>
+        <input class="form-control" asp-for="GenderName" />
+        <span class="text-danger" asp-validation-for="GenderName"></span>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" asp-for="IsActive" />
+        <label class="form-check-label" asp-for="IsActive"></label>
+        <span asp-validation-for="IsActive"></span>
+    </div>
+
+</form>
+
+<script src="@Url.Content("~/js/Gender/Edit.js")"></script>

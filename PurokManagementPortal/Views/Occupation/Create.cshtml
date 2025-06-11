@@ -1,0 +1,20 @@
+﻿@model Generic.Data.Occupation
+
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Create Occupation</h1>
+}
+
+<div asp-validation-summary="All"></div>
+
+<form method="post" asp-controller="Occupation" asp-action="Create" id="createForm">
+    <div class="form-group">
+        <label asp-for="OccupationName"></label>
+        <input class="form-control" asp-for="OccupationName" />
+        <span class="text-danger" asp-validation-for="OccupationName"></span>
+    </div>
+</form>
+
+
+<script src="@Url.Content("~/js/Occupation/Create.js")"></script>

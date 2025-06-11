@@ -1,0 +1,28 @@
+﻿@model Generic.Data.Gender
+
+<div class="container-fluid">
+    <h1 class="h3 mb-1 text-gray-800">Manage Gender</h1>
+
+    <div class="d-flex justify-content-end mb-3">
+        <button class="btn btn-sm btn-primary px-4" data-url="/Gender/Create/" data-id="createGender" data-dialog-title="Create Gender" data-dialog-width="modal-lg" data-process-button="Create" onclick="loadAndShowModal($(this))"><i class="fas fa-plus mr-2 ml-0"></i>Create</button>
+    </div>
+
+    <div class="table-responsive-md">
+        <table id="GenderDT" class="table table-hover table-striped table-bordered nowrap" style="width:100%">
+            <thead>
+                <tr class="text-center">
+                    <th>Gender</th>
+                    <th>IsAcitve</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>           
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="@Url.Content("~/js/Gender/Index.js")"></script>
+}

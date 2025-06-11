@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|c:\\users\\kanashi\\source\\repos\\purokmanagementportal\\purokmanagementportal\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|solutionrelative:purokmanagementportal\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|c:\\users\\kanashi\\source\\repos\\purokmanagementportal\\purokmanagementportal\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|solutionrelative:purokmanagementportal\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|c:\\users\\kanashi\\source\\repos\\purokmanagementportal\\purokmanagementportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|solutionrelative:purokmanagementportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|c:\\users\\kanashi\\source\\repos\\purokmanagementportal\\purokmanagementportal\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98AC3C-9234-4903-BE5C-C7BD6C214D1A}|PurokManagementPortal\\PurokManagementPortal.csproj|solutionrelative:purokmanagementportal\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "PurokManagementPortal\\Views\\Person\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "PurokManagementPortal\\Views\\Person\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T16:18:18.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurokManagementPortal\\Views\\Person\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "PurokManagementPortal\\Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T16:16:57.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurokManagementPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurokManagementPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T16:16:45.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "PurokManagementPortal\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\KANASHI\\Source\\Repos\\PurokManagementPortal\\PurokManagementPortal\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "PurokManagementPortal\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:57:01.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

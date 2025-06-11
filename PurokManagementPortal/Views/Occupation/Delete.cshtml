@@ -1,0 +1,27 @@
+﻿@model Generic.Data.Occupation
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Delete Occupation</h1>
+}
+
+
+<form method="post" asp-controller="Occupation" asp-action="Delete" id="deleteForm">
+    <div class="form-group" hidden>
+        <label asp-for="OccupationId"></label>
+        <input asp-for="OccupationId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="OccupationName"></label>
+        <input class="form-control" asp-for="OccupationName" readonly />
+        <span asp-validation-for="OccupationName"></span>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" asp-for="IsActive" disabled />
+        <label class="form-check-label" asp-for="IsActive"></label>
+        <span asp-validation-for="IsActive"></span>
+    </div>
+
+</form>
+
+<script src="@Url.Content("~/js/Occupation/Delete.js")"></script>

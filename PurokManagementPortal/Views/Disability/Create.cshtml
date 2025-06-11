@@ -1,0 +1,26 @@
+﻿@model Generic.Data.Disability
+
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Create Disability</h1>
+}
+
+<div asp-validation-summary="All"></div>
+
+<form method="post" asp-controller="Disability" asp-action="Create" id="createForm">
+    <div class="form-group">
+        <label asp-for="DisabilityName"></label>
+        <input class="form-control" asp-for="DisabilityName" />
+        <span class="text-danger" asp-validation-for="DisabilityName"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LegendRemarks"></label>
+        <input class="form-control" asp-for="LegendRemarks" />
+        <span class="text-danger" asp-validation-for="LegendRemarks"></span>
+    </div>
+
+</form>
+
+
+<script src="@Url.Content("~/js/Disability/Create.js")"></script>

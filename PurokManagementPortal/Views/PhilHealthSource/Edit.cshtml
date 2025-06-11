@@ -1,0 +1,27 @@
+﻿@model Generic.Data.PhilHealthSource
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Edit PhilHealt hSource</h1>
+}
+
+
+<form method="post" asp-controller="PhilHealthSource" asp-action="Edit" id="editForm">
+    <div class="form-group" hidden>
+        <label asp-for="PhilHealthSourceId"></label>
+        <input asp-for="PhilHealthSourceId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="PhilHealthSourceName"></label>
+        <input class="form-control" asp-for="PhilHealthSourceName" />
+        <span class="text-danger" asp-validation-for="PhilHealthSourceName"></span>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" asp-for="IsActive" />
+        <label class="form-check-label" asp-for="IsActive"></label>
+        <span asp-validation-for="IsActive"></span>
+    </div>
+
+</form>
+
+<script src="@Url.Content("~/js/PhilHealthSource/Edit.js")"></script>

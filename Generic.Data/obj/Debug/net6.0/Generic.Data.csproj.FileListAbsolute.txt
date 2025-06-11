@@ -1,0 +1,12 @@
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\bin\Debug\net6.0\Generic.Data.deps.json
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\bin\Debug\net6.0\Generic.Data.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\bin\Debug\net6.0\Generic.Data.pdb
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.csproj.AssemblyReference.cache
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.AssemblyInfoInputs.cache
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.AssemblyInfo.cs
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.csproj.CoreCompileInputs.cache
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\refint\Generic.Data.dll
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\Generic.Data.pdb
+C:\Users\KANASHI\Source\Repos\PurokManagementPortal\Generic.Data\obj\Debug\net6.0\ref\Generic.Data.dll

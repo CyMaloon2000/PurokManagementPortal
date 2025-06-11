@@ -1,0 +1,20 @@
+﻿@model Generic.Data.MaritalStatus
+
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Create Marital Status</h1>
+}
+
+<div asp-validation-summary="All"></div>
+
+<form method="post" asp-controller="MaritalStatus" asp-action="Create" id="createForm">
+    <div class="form-group">
+        <label asp-for="StatusName"></label>
+        <input class="form-control" asp-for="StatusName" />
+        <span class="text-danger" asp-validation-for="StatusName"></span>
+    </div>
+</form>
+
+
+<script src="@Url.Content("~/js/MaritalStatus/Create.js")"></script>

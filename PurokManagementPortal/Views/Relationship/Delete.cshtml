@@ -1,0 +1,27 @@
+﻿@model Generic.Data.Relationship
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Delete Relationship</h1>
+}
+
+
+<form method="post" asp-controller="Relationship" asp-action="Delete" id="deleteForm">
+    <div class="form-group" hidden>
+        <label asp-for="RelationshipId"></label>
+        <input asp-for="RelationshipId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="RelationshipName"></label>
+        <input class="form-control" asp-for="RelationshipName" readonly />
+        <span asp-validation-for="RelationshipName"></span>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" asp-for="IsActive" disabled />
+        <label class="form-check-label" asp-for="IsActive"></label>
+        <span asp-validation-for="IsActive"></span>
+    </div>
+
+</form>
+
+<script src="@Url.Content("~/js/Relationship/Delete.js")"></script>

@@ -1,0 +1,27 @@
+﻿@model Generic.Data.Religion
+
+@if (Context.Request.Headers["X-Requested-With"] != "XMLHttpRequest")
+{
+    <h1 class="h3 mb-1 text-gray-800">Edit Religion</h1>
+}
+
+
+<form method="post" asp-controller="Religion" asp-action="Edit" id="editForm">
+    <div class="form-group" hidden>
+        <label asp-for="ReligionId"></label>
+        <input asp-for="ReligionId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="ReligionName"></label>
+        <input class="form-control" asp-for="ReligionName" />
+        <span class="text-danger" asp-validation-for="ReligionName"></span>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" asp-for="IsActive" />
+        <label class="form-check-label" asp-for="IsActive"></label>
+        <span asp-validation-for="IsActive"></span>
+    </div>
+
+</form>
+
+<script src="@Url.Content("~/js/Religion/Edit.js")"></script>

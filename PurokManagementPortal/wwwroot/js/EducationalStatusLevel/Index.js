@@ -1,0 +1,49 @@
+﻿$(function () {
+
+
+    EducationDT = $("#EducationDT").DataTable({
+        "processing": true,
+        "serverSide": true,
+        "ajax": {
+            "url": "/EducationalStatusLevel/GetListJson/",
+            "type": "POST"
+        },
+        "columns": [
+            {
+                "data": "educationalStatusLevelName",
+                "className": "text-center",
+                width: "50"
+            },
+            {
+                "data": "legendRemarks",
+                "className": "text-center",
+                width: "50"
+            },
+            {
+                "data": 'isActive',
+                "className": "text-center",
+                "render": function (IsActive) {
+                    if (IsActive) {
+                        return '<a href="#" class="badge badge-primary">Active</a>';
+                    }
+                    else {
+                        return '<a href="#" class="badge badge-danger">Inactive</a>';
+                    }
+                },
+                width: "20%"
+            },
+            {
+                "data": 'educationalStatusLevelId',
+                "className": "text-center",
+                "render": function (EducationalStatusLevelId) {
+                    return ` <div class="btn-group btn-group-sm">
+                                <button class="btn btn-sm btn-primary px-4" data-url="/EducationalStatusLevel/Edit/${EducationalStatusLevelId}" data-id="editEducation" data-dialog-title="Edit Education" data-dialog-width="modal-lg" data-process-button="Update" onclick="loadAndShowModal($(this))"><i class="fas fa-pen mr-2 ml-0"></i>Update</button>
+                                <button class="btn btn-sm btn-danger px-4" data-url="/EducationalStatusLevel/Delete/${EducationalStatusLevelId}" data-id="deleteEducation" data-dialog-title="Delete Education" data-dialog-width="modal-lg" data-process-button="Delete" onclick="loadAndShowModal($(this))"><i class="fas fa-trash mr-2 ml-0"></i>Delete</button>
+                            </div>`;
+                },
+                width: "30%"
+            },
+
+        ]
+    });
+});

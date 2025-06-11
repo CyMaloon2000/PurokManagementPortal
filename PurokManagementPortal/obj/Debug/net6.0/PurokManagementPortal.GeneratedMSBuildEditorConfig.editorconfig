@@ -1,0 +1,231 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PurokManagementPortal
+build_property.RootNamespace = PurokManagementPortal
+build_property.ProjectDir = C:\Users\KANASHI\Source\Repos\PurokManagementPortal\PurokManagementPortal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\KANASHI\Source\Repos\PurokManagementPortal\PurokManagementPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Disability/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzYWJpbGl0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Disability/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzYWJpbGl0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Disability/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzYWJpbGl0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Disability/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzYWJpbGl0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/EducationalStatusLevel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uYWxTdGF0dXNMZXZlbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/EducationalStatusLevel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uYWxTdGF0dXNMZXZlbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/EducationalStatusLevel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uYWxTdGF0dXNMZXZlbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/EducationalStatusLevel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uYWxTdGF0dXNMZXZlbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Gender/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Gender/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Gender/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Gender/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/GovernmentSubsidy/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR292ZXJubWVudFN1YnNpZHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/GovernmentSubsidy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR292ZXJubWVudFN1YnNpZHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/GovernmentSubsidy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR292ZXJubWVudFN1YnNpZHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/GovernmentSubsidy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR292ZXJubWVudFN1YnNpZHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/HealthCondition/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoQ29uZGl0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/HealthCondition/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoQ29uZGl0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/HealthCondition/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoQ29uZGl0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/HealthCondition/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoQ29uZGl0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/MaritalStatus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRhbFN0YXR1c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/MaritalStatus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRhbFN0YXR1c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/MaritalStatus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRhbFN0YXR1c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/MaritalStatus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRhbFN0YXR1c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Nationality/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF0aW9uYWxpdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Nationality/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF0aW9uYWxpdHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Nationality/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF0aW9uYWxpdHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Nationality/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF0aW9uYWxpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Occupation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjdXBhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Occupation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjdXBhdGlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Occupation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjdXBhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Occupation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NjdXBhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/PhilHealthSource/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbEhlYWx0aFNvdXJjZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/PhilHealthSource/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbEhlYWx0aFNvdXJjZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/PhilHealthSource/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbEhlYWx0aFNvdXJjZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/PhilHealthSource/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbEhlYWx0aFNvdXJjZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Relationship/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb25zaGlwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Relationship/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb25zaGlwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Relationship/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb25zaGlwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Relationship/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb25zaGlwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Religion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Religion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Religion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Religion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KANASHI/Source/Repos/PurokManagementPortal/PurokManagementPortal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u05yav4rfc
